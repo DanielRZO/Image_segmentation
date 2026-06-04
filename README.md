@@ -68,11 +68,7 @@ pip install ultralytics opencv-python mlflow scikit-learn matplotlib pandas tqdm
 
 ## How to run
 
-1. Open a terminal or Jupyter in the project folder:
-
-   ```bash
-   cd "gd a revelia"
-   ```
+1. Open a terminal or Jupyter.
 
 2. Ensure the trained weights exist (`best.pt` in the folder, or under `runs/train/solar_panels_v1/weights/`).
 
